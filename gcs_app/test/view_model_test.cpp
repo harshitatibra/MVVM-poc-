@@ -1,4 +1,4 @@
-#include "robot_view_model.hpp"
+#include "viewmodel/robot_view_model.hpp"
 #include <QtTest>
 #include <limits>
 #include <thread>

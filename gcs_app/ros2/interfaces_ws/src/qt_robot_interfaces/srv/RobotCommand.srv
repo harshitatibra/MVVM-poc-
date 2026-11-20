@@ -1,0 +1,7 @@
+# Supported: ping, stand, sit, low_battery, reset.
+string command
+---
+# Accepted means the simulator processed the request and updated its state.
+bool accepted
+string message
+string mode

@@ -1,0 +1,9 @@
+build/
+build-*/
+install/
+log/
+.qt/
+.cache/
+*.user
+CMakeUserPresets.json
+__pycache__/

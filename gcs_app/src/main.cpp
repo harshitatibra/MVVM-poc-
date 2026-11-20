@@ -1,5 +1,5 @@
-#include "robot_view_model.hpp"
-#include "model/ros2/ros2_robot_adapter.hpp"
+#include "viewmodel/robot_view_model.hpp"
+#include "model/adapters/ros2_robot_adapter.hpp"
 #include <QGuiApplication>
 #include <QElapsedTimer>
 #include <QQmlApplicationEngine>

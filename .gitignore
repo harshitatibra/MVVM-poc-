@@ -1,6 +1,11 @@
 build/
+build-*/
 install/
 log/
 .local-checks/
+dist/
+.qt/
+.cache/
 *.user
+CMakeUserPresets.json
 __pycache__/
